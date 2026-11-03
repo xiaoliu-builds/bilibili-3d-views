@@ -6,6 +6,8 @@
 
 A 3D building you can explore in your browser. Pick an employee badge, walk into the lobby, take the elevator to themed floors, or fly up to the rooftop for a view of the campus. Familiar bilibili elements, including the little TV mascot, danmaku, and the "Like / Coin / Favorite" trio, become part of a space you can walk through and interact with.
 
+**Live demo**: [Explore the bilibili 3D concept building](https://www.bilibili.com/toy/CalTitjTm8CIMNDT/index.html?spm_id_from=333.1365.0.0)
+
 **The core game is under 3 MB and compact.** The game code, bundled Three.js dependencies, and UI assets total about **2.94 MB**. No client installation is required; explore directly in your browser. This figure excludes the README preview image and external platform SDK.
 
 > This project is a concept scene inspired by bilibili's brand elements. It does not replicate a real building. The architecture, layout, and scene details are designed for creative expression and interactive exploration.
